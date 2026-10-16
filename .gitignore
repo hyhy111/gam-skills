@@ -1,0 +1,18 @@
+# Keep this distribution scoped to GAM-owned skills.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/AGENTS.md
+!/gam-cli/
+!/gam-export/
+!/gam-guide/
+!/gam-pic-prompt/
+!/gam-video-prompt/
+!/gam-workflow/
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+Thumbs.db
